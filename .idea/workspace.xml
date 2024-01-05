@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e934c180-12c3-44ec-8f51-7c6a205f324f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/hw/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task1/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/UMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/BalykCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/Chebureck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/Chips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/ChocolateBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/DumplingsBerries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/DumplingsMeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/HealthyFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/OliveOil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/SemiFinishedFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/food/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/thing/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/thing/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar1/task2/market/thing/Thing.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2aTyDpAKv3GSSHZV2H6o9zl88Ed" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Average.executor": "Run",
+    "Application.Library.executor": "Debug",
+    "Application.Program.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/tech-sid/Рабочий стол/GB/Scala/Course from rostelecom/scala-case-classes-lection-1"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Average">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1.hw.Average" />
+      <module name="seminars-java-junior-stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar1.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1.task1.Library" />
+      <module name="seminars-java-junior-stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar1.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar1.task2.market.Program" />
+      <module name="seminars-java-junior-stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar1.task2.market.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-8336523bb0d9-bc521e2d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e934c180-12c3-44ec-8f51-7c6a205f324f" name="Changes" comment="" />
+      <created>1704356748292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704356748292</updated>
+    </task>
+    <servers />
+  </component>
+</project>
